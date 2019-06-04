@@ -35,7 +35,7 @@ When the reader has completed this Code Pattern, they will understand how to:
 # Steps
 
 <!-- there are MANY updates necessary here, just screenshots where appropriate -->
-1. [Deploy Cloud Services](#1-deploy-cloud-services)
+1. [Deploy Cloud Services](#1-provision-watson-services-via-ibm-cloud-dashboard)
 2. [Configure hardware](#2-configure-hardware)
 3. [Configure services](#3-configure-services)
 4. [Create custom shield](#4-create-custom-shield)
