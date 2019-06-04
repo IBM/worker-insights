@@ -16,7 +16,9 @@ When the reader has completed this Code Pattern, they will understand how to:
 <!-- - Detect user proximity to certain zones in workplace  -->
 
 <!--add an image in this path-->
-![](https://i.imgur.com/HHkAyW2.png)
+<p align="center">
+  <img src="docs/doc-images/arch-flow.png">
+</p>
 
 <!--Optionally, add flow steps based on the architecture diagram-->
 ## Flow
