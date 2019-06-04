@@ -43,9 +43,9 @@ When the reader has completed this Code Pattern, they will understand how to:
 ### 1. Provision Watson services via IBM Cloud dashboard
 
 Create the following services:
-* [**Watson IoT Platform**](https://console.bluemix.net/catalog/services/internet-of-things-platform)
-* [**Streaming Analytics (IBM Streams)**](https://console.bluemix.net/catalog/services/streaming-analytics)
-* [**Cloud Object Storage**](https://console.bluemix.net/catalog/services/cloud-object-storage)
+* [**Watson IoT Platform**](https://cloud.ibm.com/catalog/services/internet-of-things-platform)
+* [**Streaming Analytics (IBM Streams)**](https://cloud.ibm.com/catalog/services/streaming-analytics)
+* [**Cloud Object Storage**](https://cloud.ibm.com/catalog/services/cloud-object-storage)
 * [**Worker Insights**](https://www.ibm.com/us-en/marketplace/iot-safer-workplace)
 
 
@@ -279,13 +279,13 @@ using the default configuration.
 #### Services
 
 Watson IoT Platform
-https://console.bluemix.net/catalog/services/internet-of-things-platform
+https://cloud.ibm.com/catalog/services/internet-of-things-platform
 
 IBM Streams (Streaming Analytics)
-https://console.bluemix.net/catalog/services/streaming-analytics
+https://cloud.ibm.com/catalog/services/streaming-analytics
 
 Cloud Object Storage
-https://console.bluemix.net/catalog/services/cloud-object-storage
+https://cloud.ibm.com/catalog/services/cloud-object-storage
 
 Worker Insights
 https://www.ibm.com/us-en/marketplace/iot-safer-workplace
